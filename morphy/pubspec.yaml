@@ -7,8 +7,8 @@ environment:
   sdk: ">=3.8.0 <4.0.0"
 
 dependencies:
-  analyzer: ">=7.5.9 <8.0.0"
-  build: ^3.0.0
+  analyzer:
+  build: 
   source_gen: 
   morphy_annotation: ^1.4.2
   dartx: ^1.2.0
